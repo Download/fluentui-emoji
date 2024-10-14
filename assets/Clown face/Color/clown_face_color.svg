@@ -6,10 +6,10 @@
 <g filter="url(#filter0_f_6815_5251)">
 <path d="M24.683 12.903C25.2248 14.4688 26.9334 15.2988 28.4991 14.7569C30.2547 14.2969 31.1267 12.4829 30.5848 10.9172C30.043 9.35147 28.7552 9.85659 27.1894 10.3985C25.6237 10.9403 24.1411 11.3373 24.683 12.903Z" fill="url(#paint4_radial_6815_5251)"/>
 </g>
-<circle r="3" transform="matrix(-1 0 0 1 21.0012 4.93292)" fill="url(#paint5_radial_6815_5251)"/>
-<circle r="3" transform="matrix(-1 0 0 1 21.0012 4.93292)" fill="url(#paint6_radial_6815_5251)"/>
-<circle r="5" transform="matrix(-1 0 0 1 26.0012 6.93292)" fill="url(#paint7_radial_6815_5251)"/>
-<circle r="5" transform="matrix(-1 0 0 1 26.0012 6.93292)" fill="url(#paint8_radial_6815_5251)"/>
+<circle cx="0.0" cy="0.0" r= "3" transform="matrix(-1 0 0 1 21.0012 4.93292)" fill="url(#paint5_radial_6815_5251)"/>
+<circle cx="0.0" cy="0.0" r= "3" transform="matrix(-1 0 0 1 21.0012 4.93292)" fill="url(#paint6_radial_6815_5251)"/>
+<circle cx="0.0" cy="0.0" r= "5" transform="matrix(-1 0 0 1 26.0012 6.93292)" fill="url(#paint7_radial_6815_5251)"/>
+<circle cx="0.0" cy="0.0" r= "5" transform="matrix(-1 0 0 1 26.0012 6.93292)" fill="url(#paint8_radial_6815_5251)"/>
 <g filter="url(#filter1_i_6815_5251)">
 <path d="M16 30.9307C25.3344 30.9307 29.9989 24.6632 29.9989 16.9318C29.9989 9.20044 25.3344 2.93292 16 2.93292C6.66553 2.93292 2.0011 9.20044 2.0011 16.9318C2.0011 24.6632 6.66553 30.9307 16 30.9307Z" fill="url(#paint9_radial_6815_5251)"/>
 </g>

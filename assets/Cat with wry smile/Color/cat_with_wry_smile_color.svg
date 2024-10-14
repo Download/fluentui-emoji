@@ -50,14 +50,14 @@
 <path d="M6.59334 24.5608L2.79179 26.3799" stroke="#FF8485" stroke-width="0.3" stroke-miterlimit="10" stroke-linecap="round"/>
 </g>
 <g filter="url(#filter13_f_6903_5229)">
-<ellipse rx="0.18384" ry="0.165827" transform="matrix(-0.942776 -0.333427 -0.333427 0.942776 6.64614 24.505)" fill="#FFDD86"/>
+<ellipse cx="0.0" cy="0.0" rx="0.18384" ry="0.165827" transform="matrix(-0.942776 -0.333427 -0.333427 0.942776 6.64614 24.505)" fill="#FFDD86"/>
 </g>
 <path d="M6.53973 22.5244L2.72615 20.7307" stroke="url(#paint17_linear_6903_5229)" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round"/>
 <g filter="url(#filter14_f_6903_5229)">
 <path d="M6.67403 22.4988L2.86046 20.705" stroke="#FF8485" stroke-width="0.3" stroke-miterlimit="10" stroke-linecap="round"/>
 </g>
 <g filter="url(#filter15_f_6903_5229)">
-<ellipse rx="0.18384" ry="0.165827" transform="matrix(-0.338111 -0.941106 -0.941106 0.338111 6.75078 22.5044)" fill="#FFDD86"/>
+<ellipse cx="0.0" cy="0.0" rx="0.18384" ry="0.165827" transform="matrix(-0.338111 -0.941106 -0.941106 0.338111 6.75078 22.5044)" fill="#FFDD86"/>
 </g>
 <g filter="url(#filter16_f_6903_5229)">
 <path d="M20.207 20.4671C19.7818 20.4671 19.4316 20.124 19.4316 19.7075V18.2862C19.4316 17.8696 19.7818 17.5265 20.207 17.5265C20.6321 17.5265 20.9823 17.8696 20.9823 18.2862V19.7075C20.9823 20.1363 20.6321 20.4671 20.207 20.4671Z" fill="url(#paint18_linear_6903_5229)"/>

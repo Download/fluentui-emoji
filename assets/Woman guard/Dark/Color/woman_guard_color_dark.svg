@@ -35,9 +35,9 @@
 </g>
 <ellipse cx="9.88607" cy="22.1535" rx="0.640867" ry="0.524153" transform="rotate(-40.5343 9.88607 22.1535)" fill="url(#paint24_radial_4002_2838)"/>
 <g filter="url(#filter4_f_4002_2838)">
-<ellipse rx="0.640867" ry="0.493738" transform="matrix(-0.815703 -0.578471 -0.578471 0.815703 21.9571 22.191)" fill="#3E3138"/>
+<ellipse cx="0.0" cy="0.0" rx="0.640867" ry="0.493738" transform="matrix(-0.815703 -0.578471 -0.578471 0.815703 21.9571 22.191)" fill="#3E3138"/>
 </g>
-<ellipse rx="0.640867" ry="0.524153" transform="matrix(-0.760017 -0.649904 -0.649904 0.760017 22.086 22.1535)" fill="url(#paint25_radial_4002_2838)"/>
+<ellipse cx="0.0" cy="0.0" rx="0.640867" ry="0.524153" transform="matrix(-0.760017 -0.649904 -0.649904 0.760017 22.086 22.1535)" fill="url(#paint25_radial_4002_2838)"/>
 <g filter="url(#filter5_iii_4002_2838)">
 <rect x="12.1719" y="14.9265" width="7.59375" height="9.59375" rx="3.79688" fill="url(#paint26_radial_4002_2838)"/>
 <rect x="12.1719" y="14.9265" width="7.59375" height="9.59375" rx="3.79688" fill="url(#paint27_radial_4002_2838)"/>

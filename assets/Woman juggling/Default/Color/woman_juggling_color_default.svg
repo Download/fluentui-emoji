@@ -167,8 +167,8 @@
 <path d="M15.422 14.0057C15.422 13.7044 15.177 13.5036 15.1107 13.4429L14.8094 13.7342L14.9949 14.1117L15.422 14.0057Z" fill="url(#paint85_linear_3987_23844)"/>
 </g>
 <g filter="url(#filter31_f_3987_23844)">
-<ellipse rx="0.407032" ry="0.205996" transform="matrix(0.883811 -0.467843 0.468449 0.883491 14.2881 13.5814)" fill="#C7A7A3" fill-opacity="0.9"/>
-<ellipse rx="0.407032" ry="0.205996" transform="matrix(0.883811 -0.467843 0.468449 0.883491 14.2881 13.5814)" fill="url(#paint86_radial_3987_23844)"/>
+<ellipse cx="0.0" cy="0.0" rx="0.407032" ry="0.205996" transform="matrix(0.883811 -0.467843 0.468449 0.883491 14.2881 13.5814)" fill="#C7A7A3" fill-opacity="0.9"/>
+<ellipse cx="0.0" cy="0.0" rx="0.407032" ry="0.205996" transform="matrix(0.883811 -0.467843 0.468449 0.883491 14.2881 13.5814)" fill="url(#paint86_radial_3987_23844)"/>
 </g>
 <g filter="url(#filter32_f_3987_23844)">
 <path d="M18.8807 11.8268C19.2179 11.7449 20.0564 11.7859 20.6169 12.1865" stroke="#C9725D" stroke-width="0.2" stroke-linecap="round"/>

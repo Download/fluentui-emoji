@@ -72,13 +72,13 @@
 <path d="M12.2413 9.71964L10.2342 9.00478C9.96465 8.90879 9.88013 8.5691 10.0732 8.35799L11.2144 7.11042C11.4093 6.89732 11.7589 6.95469 11.8755 7.21891L12.7415 9.18135C12.8832 9.50252 12.572 9.83743 12.2413 9.71964Z" fill="#1A78C3"/>
 </g>
 <g filter="url(#filter18_f_20020_6133)">
-<circle r="0.378378" transform="matrix(-1 0 0 1 30.1996 16.6746)" fill="#96736A"/>
+<circle cx="0.0" cy="0.0" r= "0.378378" transform="matrix(-1 0 0 1 30.1996 16.6746)" fill="#96736A"/>
 </g>
 <g filter="url(#filter19_f_20020_6133)">
-<circle r="0.378378" transform="matrix(-1 0 0 1 27.6684 14.1746)" fill="#96736A"/>
+<circle cx="0.0" cy="0.0" r= "0.378378" transform="matrix(-1 0 0 1 27.6684 14.1746)" fill="#96736A"/>
 </g>
 <g filter="url(#filter20_f_20020_6133)">
-<circle r="0.378378" transform="matrix(-1 0 0 1 24.4263 12.2686)" fill="#96736A"/>
+<circle cx="0.0" cy="0.0" r= "0.378378" transform="matrix(-1 0 0 1 24.4263 12.2686)" fill="#96736A"/>
 </g>
 <defs>
 <filter id="filter0_ii_20020_6133" x="1.00134" y="11.0069" width="15.4822" height="18.9229" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

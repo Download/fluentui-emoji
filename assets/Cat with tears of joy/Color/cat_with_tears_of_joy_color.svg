@@ -46,14 +46,14 @@
 <path d="M6.59334 24.6239L2.79179 26.443" stroke="#FF8485" stroke-width="0.3" stroke-miterlimit="10" stroke-linecap="round"/>
 </g>
 <g filter="url(#filter12_f_6896_5275)">
-<ellipse rx="0.18384" ry="0.165827" transform="matrix(-0.942776 -0.333427 -0.333427 0.942776 6.64614 24.568)" fill="#FFDD86"/>
+<ellipse cx="0.0" cy="0.0" rx="0.18384" ry="0.165827" transform="matrix(-0.942776 -0.333427 -0.333427 0.942776 6.64614 24.568)" fill="#FFDD86"/>
 </g>
 <path d="M6.53973 22.5874L2.72615 20.7937" stroke="url(#paint16_linear_6896_5275)" stroke-width="1.2" stroke-miterlimit="10" stroke-linecap="round"/>
 <g filter="url(#filter13_f_6896_5275)">
 <path d="M6.67403 22.5619L2.86046 20.7682" stroke="#FF8485" stroke-width="0.3" stroke-miterlimit="10" stroke-linecap="round"/>
 </g>
 <g filter="url(#filter14_f_6896_5275)">
-<ellipse rx="0.18384" ry="0.165827" transform="matrix(-0.338111 -0.941106 -0.941106 0.338111 6.75078 22.5674)" fill="#FFDD86"/>
+<ellipse cx="0.0" cy="0.0" rx="0.18384" ry="0.165827" transform="matrix(-0.338111 -0.941106 -0.941106 0.338111 6.75078 22.5674)" fill="#FFDD86"/>
 </g>
 <path d="M20.4179 18.9186C20.4179 21.3586 18.436 23.2545 15.996 23.2545C13.556 23.2545 11.6835 21.3117 11.6835 18.8717C11.6835 18.8717 13.4882 21.0045 15.996 18.8717C18.3476 20.9498 20.4179 18.9186 20.4179 18.9186Z" fill="url(#paint17_linear_6896_5275)"/>
 <g filter="url(#filter15_f_6896_5275)">
@@ -81,7 +81,7 @@
 <path d="M5.22321 7.78967V12.9772" stroke="#FFE7A3" stroke-width="0.15" stroke-linecap="round"/>
 </g>
 <g filter="url(#filter22_f_6896_5275)">
-<ellipse rx="0.18384" ry="0.165827" transform="matrix(-0.922231 -0.386639 -0.386639 0.922231 2.81325 20.6437)" fill="#FFDD86"/>
+<ellipse cx="0.0" cy="0.0" rx="0.18384" ry="0.165827" transform="matrix(-0.922231 -0.386639 -0.386639 0.922231 2.81325 20.6437)" fill="#FFDD86"/>
 </g>
 <g filter="url(#filter23_f_6896_5275)">
 <ellipse cx="29.6059" cy="20.6437" rx="0.18384" ry="0.165827" transform="rotate(-22.7455 29.6059 20.6437)" fill="#FFDD86"/>
@@ -107,7 +107,7 @@
 <path d="M8.29492 17.6178L5.07617 20.9615" stroke="#6BAFFF" stroke-linecap="round"/>
 </g>
 <g filter="url(#filter29_f_6896_5275)">
-<circle r="0.742188" transform="matrix(-1 0 0 1 8.08502 16.8678)" fill="#6BAFFF"/>
+<circle cx="0.0" cy="0.0" r= "0.742188" transform="matrix(-1 0 0 1 8.08502 16.8678)" fill="#6BAFFF"/>
 </g>
 <path d="M19.0625 15.2272C19.5312 14.7116 20.7969 14.2272 21.9375 15.1725" stroke="url(#paint30_radial_6896_5275)" stroke-width="1.1" stroke-linecap="round"/>
 <path d="M19.0625 15.2272C19.5312 14.7116 20.7969 14.2272 21.9375 15.1725" stroke="url(#paint31_linear_6896_5275)" stroke-width="1.1" stroke-linecap="round"/>

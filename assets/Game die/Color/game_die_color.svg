@@ -21,9 +21,9 @@
 <ellipse cx="22.6432" cy="18.9698" rx="1.51144" ry="2.37358" transform="rotate(23.4058 22.6432 18.9698)" fill="url(#paint10_radial_18_3713)"/>
 <ellipse cx="25.788" cy="13.6653" rx="1.51144" ry="2.37358" transform="rotate(23.4058 25.788 13.6653)" fill="url(#paint11_radial_18_3713)"/>
 <ellipse cx="25.788" cy="13.6653" rx="1.51144" ry="2.37358" transform="rotate(23.4058 25.788 13.6653)" fill="url(#paint12_radial_18_3713)"/>
-<ellipse rx="1.52269" ry="2.56165" transform="matrix(-0.959262 0.282519 0.282519 0.959262 5.72121 13.8997)" fill="url(#paint13_radial_18_3713)"/>
-<ellipse rx="1.52269" ry="2.56165" transform="matrix(-0.959262 0.282519 0.282519 0.959262 12.2871 23.9103)" fill="#5A867B" fill-opacity="0.5"/>
-<ellipse rx="1.52269" ry="2.56165" transform="matrix(-0.959262 0.282519 0.282519 0.959262 12.2871 23.9103)" fill="url(#paint14_radial_18_3713)"/>
+<ellipse cx="0.0" cy="0.0" rx="1.52269" ry="2.56165" transform="matrix(-0.959262 0.282519 0.282519 0.959262 5.72121 13.8997)" fill="url(#paint13_radial_18_3713)"/>
+<ellipse cx="0.0" cy="0.0" rx="1.52269" ry="2.56165" transform="matrix(-0.959262 0.282519 0.282519 0.959262 12.2871 23.9103)" fill="#5A867B" fill-opacity="0.5"/>
+<ellipse cx="0.0" cy="0.0" rx="1.52269" ry="2.56165" transform="matrix(-0.959262 0.282519 0.282519 0.959262 12.2871 23.9103)" fill="url(#paint14_radial_18_3713)"/>
 <defs>
 <filter id="filter0_ii_18_3713" x="2.07015" y="2.11905" width="27.3337" height="27.9584" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>

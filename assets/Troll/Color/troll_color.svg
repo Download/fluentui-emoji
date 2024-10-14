@@ -38,12 +38,12 @@
 </g>
 <circle cx="17.835" cy="10.9919" r="0.611328" fill="url(#paint22_radial_13929_4713)"/>
 <g filter="url(#filter7_i_13929_4713)">
-<circle r="1.76965" transform="matrix(-1 0 0 1 13.6977 11.161)" fill="url(#paint23_linear_13929_4713)"/>
+<circle cx="0.0" cy="0.0" r= "1.76965" transform="matrix(-1 0 0 1 13.6977 11.161)" fill="url(#paint23_linear_13929_4713)"/>
 </g>
 <g filter="url(#filter8_i_13929_4713)">
-<circle r="1.60229" transform="matrix(-1 0 0 1 13.865 11.0596)" fill="url(#paint24_radial_13929_4713)"/>
+<circle cx="0.0" cy="0.0" r= "1.60229" transform="matrix(-1 0 0 1 13.865 11.0596)" fill="url(#paint24_radial_13929_4713)"/>
 </g>
-<circle r="0.611328" transform="matrix(-1 0 0 1 13.951 10.9919)" fill="url(#paint25_radial_13929_4713)"/>
+<circle cx="0.0" cy="0.0" r= "0.611328" transform="matrix(-1 0 0 1 13.951 10.9919)" fill="url(#paint25_radial_13929_4713)"/>
 <g filter="url(#filter9_i_13929_4713)">
 <path d="M12.2173 8.76347C12.3996 8.57597 13.0689 8.16191 14.022 8.27128" stroke="#3B2444" stroke-linecap="round"/>
 </g>
@@ -107,9 +107,9 @@
 </g>
 <ellipse cx="15.3447" cy="12.9001" rx="0.24088" ry="0.26165" transform="rotate(-27.4678 15.3447 12.9001)" fill="#2C1633"/>
 <g filter="url(#filter26_f_13929_4713)">
-<ellipse rx="0.24088" ry="0.26165" transform="matrix(-0.88727 -0.46125 -0.46125 0.88727 16.4425 12.9001)" stroke="url(#paint45_linear_13929_4713)" stroke-width="0.1" stroke-linecap="round"/>
+<ellipse cx="0.0" cy="0.0" rx="0.24088" ry="0.26165" transform="matrix(-0.88727 -0.46125 -0.46125 0.88727 16.4425 12.9001)" stroke="url(#paint45_linear_13929_4713)" stroke-width="0.1" stroke-linecap="round"/>
 </g>
-<ellipse rx="0.24088" ry="0.26165" transform="matrix(-0.88727 -0.46125 -0.46125 0.88727 16.4425 12.9001)" fill="#2C1633"/>
+<ellipse cx="0.0" cy="0.0" rx="0.24088" ry="0.26165" transform="matrix(-0.88727 -0.46125 -0.46125 0.88727 16.4425 12.9001)" fill="#2C1633"/>
 <g filter="url(#filter27_f_13929_4713)">
 <path d="M20.8587 9.2478V14.9041" stroke="url(#paint46_linear_13929_4713)" stroke-width="0.25" stroke-linecap="round"/>
 </g>

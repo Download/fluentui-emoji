@@ -120,8 +120,8 @@
 <path d="M14.9478 10.6867C14.9478 10.3839 14.7018 10.1821 14.6353 10.1211L14.3329 10.4139L14.519 10.7931L14.9478 10.6867Z" fill="url(#paint66_linear_4002_1586)"/>
 </g>
 <g filter="url(#filter19_f_4002_1586)">
-<ellipse rx="0.408672" ry="0.206943" transform="matrix(0.883455 -0.468515 0.467777 0.883847 13.8103 10.2605)" fill="#C7A7A3" fill-opacity="0.9"/>
-<ellipse rx="0.408672" ry="0.206943" transform="matrix(0.883455 -0.468515 0.467777 0.883847 13.8103 10.2605)" fill="url(#paint67_radial_4002_1586)"/>
+<ellipse cx="0.0" cy="0.0" rx="0.408672" ry="0.206943" transform="matrix(0.883455 -0.468515 0.467777 0.883847 13.8103 10.2605)" fill="#C7A7A3" fill-opacity="0.9"/>
+<ellipse cx="0.0" cy="0.0" rx="0.408672" ry="0.206943" transform="matrix(0.883455 -0.468515 0.467777 0.883847 13.8103 10.2605)" fill="url(#paint67_radial_4002_1586)"/>
 </g>
 <g filter="url(#filter20_f_4002_1586)">
 <path d="M18.4172 8.4984C18.7555 8.41604 19.5966 8.45722 20.1589 8.8599" stroke="#473C3C" stroke-width="0.2" stroke-linecap="round"/>

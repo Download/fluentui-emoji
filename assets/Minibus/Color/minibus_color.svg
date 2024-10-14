@@ -25,12 +25,12 @@
 <circle cx="23.6828" cy="26.6324" r="3.36764" fill="url(#paint14_linear_18_10038)"/>
 </g>
 <g filter="url(#filter5_d_18_10038)">
-<circle r="1.17584" transform="matrix(-1 0 0 1 8.59424 26.6324)" fill="url(#paint15_radial_18_10038)"/>
-<circle r="1.17584" transform="matrix(-1 0 0 1 8.59424 26.6324)" fill="url(#paint16_radial_18_10038)"/>
+<circle cx="0.0" cy="0.0" r= "1.17584" transform="matrix(-1 0 0 1 8.59424 26.6324)" fill="url(#paint15_radial_18_10038)"/>
+<circle cx="0.0" cy="0.0" r= "1.17584" transform="matrix(-1 0 0 1 8.59424 26.6324)" fill="url(#paint16_radial_18_10038)"/>
 </g>
 <g filter="url(#filter6_d_18_10038)">
-<circle r="1.17584" transform="matrix(-1 0 0 1 23.6827 26.6324)" fill="url(#paint17_radial_18_10038)"/>
-<circle r="1.17584" transform="matrix(-1 0 0 1 23.6827 26.6324)" fill="url(#paint18_radial_18_10038)"/>
+<circle cx="0.0" cy="0.0" r= "1.17584" transform="matrix(-1 0 0 1 23.6827 26.6324)" fill="url(#paint17_radial_18_10038)"/>
+<circle cx="0.0" cy="0.0" r= "1.17584" transform="matrix(-1 0 0 1 23.6827 26.6324)" fill="url(#paint18_radial_18_10038)"/>
 </g>
 <defs>
 <filter id="filter0_iii_18_10038" x="1.07318" y="10.1111" width="29.8536" height="16.9164" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">

@@ -77,16 +77,16 @@
 <ellipse cx="27.2929" cy="12.5185" rx="0.418359" ry="0.727048" transform="rotate(50.1094 27.2929 12.5185)" fill="#A354A0"/>
 </g>
 <g filter="url(#filter18_f_6816_5279)">
-<ellipse rx="0.418359" ry="0.727048" transform="matrix(0.221649 -0.975127 -0.975127 -0.221649 27.5824 15.7703)" fill="#A354A0"/>
+<ellipse cx="0.0" cy="0.0" rx="0.418359" ry="0.727048" transform="matrix(0.221649 -0.975127 -0.975127 -0.221649 27.5824 15.7703)" fill="#A354A0"/>
 </g>
 <g filter="url(#filter19_f_6816_5279)">
-<ellipse rx="0.418359" ry="0.727048" transform="matrix(0.405757 -0.913981 -0.913981 -0.405757 27.2754 19.3226)" fill="#A354A0" fill-opacity="0.8"/>
+<ellipse cx="0.0" cy="0.0" rx="0.418359" ry="0.727048" transform="matrix(0.405757 -0.913981 -0.913981 -0.405757 27.2754 19.3226)" fill="#A354A0" fill-opacity="0.8"/>
 </g>
 <g filter="url(#filter20_f_6816_5279)">
-<ellipse rx="0.418359" ry="0.727048" transform="matrix(0.612348 -0.790589 -0.790589 -0.612348 25.7598 22.5874)" fill="#A354A0" fill-opacity="0.6"/>
+<ellipse cx="0.0" cy="0.0" rx="0.418359" ry="0.727048" transform="matrix(0.612348 -0.790589 -0.790589 -0.612348 25.7598 22.5874)" fill="#A354A0" fill-opacity="0.6"/>
 </g>
 <g filter="url(#filter21_f_6816_5279)">
-<ellipse rx="0.418359" ry="0.636206" transform="matrix(0.951004 -0.30918 -0.30918 -0.951004 23.4054 25.2656)" fill="#A354A0" fill-opacity="0.3"/>
+<ellipse cx="0.0" cy="0.0" rx="0.418359" ry="0.636206" transform="matrix(0.951004 -0.30918 -0.30918 -0.951004 23.4054 25.2656)" fill="#A354A0" fill-opacity="0.3"/>
 </g>
 <g filter="url(#filter22_f_6816_5279)">
 <ellipse cx="14.5" cy="17.4297" rx="0.335938" ry="1.30469" fill="url(#paint24_radial_6816_5279)" fill-opacity="0.5"/>

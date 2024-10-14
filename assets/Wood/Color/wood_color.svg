@@ -26,7 +26,7 @@
 </g>
 <ellipse cx="15.9999" cy="5.98353" rx="7.01508" ry="2.53602" fill="url(#paint23_linear_18_5727)"/>
 <ellipse cx="16" cy="5.70088" rx="4.87511" ry="1.63802" fill="url(#paint24_linear_18_5727)"/>
-<ellipse rx="2.67474" ry="0.702602" transform="matrix(-1 0 0 1 15.9999 5.54708)" fill="#E1A161"/>
+<ellipse cx="0.0" cy="0.0" rx="2.67474" ry="0.702602" transform="matrix(-1 0 0 1 15.9999 5.54708)" fill="#E1A161"/>
 <g filter="url(#filter1_f_18_5727)">
 <path d="M5.99854 17.8125L10.8054 22.6909" stroke="url(#paint25_linear_18_5727)" stroke-linecap="round"/>
 </g>

@@ -29,11 +29,11 @@
 <circle cx="13.5585" cy="13.4727" r="1.54883" fill="url(#paint19_radial_2_2087)"/>
 <circle cx="13.578" cy="13.4727" r="0.623047" fill="#A01B3C"/>
 <g filter="url(#filter4_i_2_2087)">
-<circle r="1.89258" transform="matrix(-1 0 0 1 18.7225 13.707)" fill="url(#paint20_radial_2_2087)"/>
+<circle cx="0.0" cy="0.0" r= "1.89258" transform="matrix(-1 0 0 1 18.7225 13.707)" fill="url(#paint20_radial_2_2087)"/>
 </g>
-<circle r="1.54883" transform="matrix(-1 0 0 1 18.5038 13.4727)" fill="url(#paint21_radial_2_2087)"/>
-<circle r="1.54883" transform="matrix(-1 0 0 1 18.5038 13.4727)" fill="url(#paint22_linear_2_2087)"/>
-<circle r="0.623047" transform="matrix(-1 0 0 1 18.4843 13.4727)" fill="#9E1539"/>
+<circle cx="0.0" cy="0.0" r= "1.54883" transform="matrix(-1 0 0 1 18.5038 13.4727)" fill="url(#paint21_radial_2_2087)"/>
+<circle cx="0.0" cy="0.0" r= "1.54883" transform="matrix(-1 0 0 1 18.5038 13.4727)" fill="url(#paint22_linear_2_2087)"/>
+<circle cx="0.0" cy="0.0" r= "0.623047" transform="matrix(-1 0 0 1 18.4843 13.4727)" fill="#9E1539"/>
 <g filter="url(#filter5_i_2_2087)">
 <path d="M20.572 13.3027H16.8734C17.0586 12.4517 17.8162 11.8145 18.7227 11.8145C19.6292 11.8145 20.3868 12.4517 20.572 13.3027Z" fill="url(#paint23_radial_2_2087)"/>
 </g>
